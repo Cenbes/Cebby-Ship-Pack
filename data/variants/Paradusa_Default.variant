@@ -1,0 +1,79 @@
+{
+  "variantId": "Paradusa_Default",
+  "hullId": "Paradusa_Cebby",
+  "displayName": "Mobile Fort",
+  "goalVariant": true,
+  "fluxCapacitors": 10,
+  "fluxVents": 25,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "advancedoptics",
+    "efficiency_overhaul",
+    "augmentedengines"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "tachyonlance",
+        "WS0002": "tachyonlance",
+        "WS0009": "ionbeam",
+        "WS0010": "ionbeam",
+        "WS0013": "gravitonbeam",
+        "WS0019": "ionbeam",
+        "WS0020": "ionbeam",
+        "WS0021": "tachyonlance",
+        "WS0022": "tachyonlance",
+        "WS0023": "hil"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "taclaser",
+        "WS0006": "taclaser",
+        "WS0007": "taclaser",
+        "WS0008": "taclaser",
+        "WS0011": "taclaser",
+        "WS0012": "taclaser",
+        "WS0014": "taclaser",
+        "WS0015": "taclaser"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0017": "typhoon",
+        "WS0018": "typhoon"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "pdburst",
+        "WS0004": "pdburst",
+        "WS0016": "pdburst",
+        "WS0024": "pdburst",
+        "WS0025": "pdburst",
+        "WS0026": "heavyburst",
+        "WS0027": "heavyburst",
+        "WS0028": "pdburst",
+        "WS0029": "pdburst",
+        "WS0030": "pdburst",
+        "WS0031": "pdburst"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

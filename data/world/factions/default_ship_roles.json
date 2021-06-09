@@ -1,0 +1,9 @@
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+{
+	"combatCapital":{
+		"Paradusa_Default":4,
+		"Epitome_Cebby_Default":4,
+	},
+
+}

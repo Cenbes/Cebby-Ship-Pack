@@ -1,0 +1,95 @@
+{
+  "variantId": "Wyvern_Nest_Cebby_variant",
+  "hullId": "Wyvern_Nest_Cebby",
+  "displayName": "Hammer Fall",
+  "goalVariant": true,
+  "fluxCapacitors": 2,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "missleracks",
+    "stabilizedshieldemitter",
+    "magazines",
+    "hardenedshieldemitter"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "hammerrack",
+        "WS0001;": "hammerrack",
+        "WS0002": "mjolnir",
+        "WS0003": "sabotpod",
+        "WS0004": "sabotpod",
+        "WS0005": "hveldriver",
+        "WS0006": "hveldriver",
+        "WS0007": "hveldriver",
+        "WS0008": "hveldriver",
+        "WS0009": "vulcan",
+        "WS0010": "vulcan",
+        "WS0011": "vulcan",
+        "WS0012": "vulcan",
+        "WS0013": "vulcan",
+        "WS0014": "vulcan",
+        "WS0015": "sabotpod",
+        "WS0017": "sabotpod",
+        "WS0019": "vulcan",
+        "WS0020": "vulcan",
+        "WS0021": "lightdualac",
+        "WS0022": "lightdualac",
+        "WS0023": "vulcan",
+        "WS0024": "vulcan",
+        "WS0025": "vulcan",
+        "WS0026": "vulcan",
+        "WS0027": "vulcan",
+        "WS0028": "vulcan",
+        "WS0029": "salamanderpod",
+        "WS0030": "salamanderpod",
+        "WS0031": "lightdualac",
+        "WS0032": "mjolnir",
+        "WS0033": "vulcan",
+        "WS0034": "vulcan",
+        "WS0035": "vulcan",
+        "WS0036": "vulcan",
+        "WS0037": "mjolnir",
+        "WS0038": "mjolnir"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0016": "sabotpod",
+        "WS0018": "sabotpod"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {}
+    }
+  ],
+  "modules": [],
+  "wings": [
+    "trident_wing",
+    "trident_wing",
+    "trident_wing",
+    "trident_wing",
+    "trident_wing",
+    "trident_wing",
+    "longbow_wing",
+    "longbow_wing"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "variantId": "Epitome_Cebby_Default",
+  "hullId": "Epitome_Cebby",
+  "displayName": "Standart Mission",
+  "goalVariant": true,
+  "fluxCapacitors": 2,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "advancedshieldemitter",
+    "efficiency_overhaul",
+    "missleracks",
+    "recovery_shuttles"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "tachyonlance",
+        "WS0005": "ionbeam",
+        "WS0006": "ionbeam",
+        "WS0007": "ionbeam",
+        "WS0008": "ionbeam"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001;": "squall"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0015": "sabotpod",
+        "WS0016": "sabotpod",
+        "WS0017": "sabotpod",
+        "WS0018": "sabotpod"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "harpoonpod",
+        "WS0004": "harpoonpod"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0009": "pdburst",
+        "WS0010": "pdburst",
+        "WS0011": "lrpdlaser",
+        "WS0012": "lrpdlaser",
+        "WS0013": "lrpdlaser",
+        "WS0014": "lrpdlaser",
+        "WS0019": "lrpdlaser",
+        "WS0020": "lrpdlaser",
+        "WS0021": "pdburst",
+        "WS0022": "pdburst",
+        "WS0023": "lrpdlaser",
+        "WS0024": "lrpdlaser",
+        "WS0025": "lrpdlaser",
+        "WS0026": "lrpdlaser",
+        "WS0027": "lrpdlaser",
+        "WS0028": "lrpdlaser",
+        "WS0029": "ionbeam",
+        "WS0030": "ionbeam",
+        "WS0031": "pdburst",
+        "WS0033": "lrpdlaser",
+        "WS0034": "lrpdlaser",
+        "WS0035": "lrpdlaser",
+        "WS0036": "lrpdlaser"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": [
+        "trident_wing",
+        "trident_wing",
+        "longbow_wing",
+        "longbow_wing",
+        "broadsword_wing",
+        "broadsword_wing",
+        "broadsword_wing",
+        "broadsword_wing"
+	]
+}
