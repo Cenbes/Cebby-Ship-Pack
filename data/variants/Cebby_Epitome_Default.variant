@@ -1,6 +1,6 @@
 {
-  "variantId": "Epitome_Cebby_Default",
-  "hullId": "Epitome_Cebby",
+  "variantId": "Epitome_Default",
+  "hullId": "Cebby_Epitome",
   "displayName": "Standart Mission",
   "goalVariant": true,
   "fluxCapacitors": 2,

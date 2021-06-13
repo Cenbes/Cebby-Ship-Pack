@@ -1,6 +1,6 @@
 {
-  "variantId": "Wyvern_Nest_Cebby_variant",
-  "hullId": "Wyvern_Nest_Cebby",
+  "variantId": "Wyvern_Nest_variant",
+  "hullId": "Cebby_Wyvern_Nest",
   "displayName": "Hammer Fall",
   "goalVariant": true,
   "fluxCapacitors": 2,

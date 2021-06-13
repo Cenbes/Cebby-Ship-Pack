@@ -1,6 +1,6 @@
 {
   "hullName": "Wyvern Nest",
-  "hullId": "Wyvern_Nest_Cebby",
+  "hullId": "Cebby_Wyvern_Nest",
   "hullSize": "CAPITAL_SHIP",
   "spriteName": "graphics/ships/Supercarrier_Wyvern.png",
   "style": "HIGH_TECH",

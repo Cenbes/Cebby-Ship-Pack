@@ -1,9 +1,9 @@
 {
-  "hullName": "Paradusa",
-  "hullId": "Paradusa_Cebby",
+  "hullName": "Wyvern Wing",
+  "hullId": "Cebby_Paradusa_Wyvern",
   "hullSize": "CAPITAL_SHIP",
-  "spriteName": "graphics/ships/Paradusa_Cebby.png",
-  "style": "HIGH_TECH",
+  "spriteName": "graphics/ships/Paradusa_Wyvern.png",
+  "style": "LOW_TECH",
   "height": 364,
   "width": 330,
   "center": [163.5, 176],
@@ -14,17 +14,18 @@
   "builtInMods": [
     "advancedcore",
     "stabilizedshieldemitter",
-    "hardenedshieldemitter"
+    "missleracks",
+    "eccm"
   ],
   "builtInWeapons": {
-    "WS0013": "gravitonbeam",
-    "WS0023": "hil"
+    "WS0013": "hephag",
+    "WS0023": "cyclone"
   },
   "weaponSlots": [
     {
       "id": "WS0001",
       "size": "LARGE",
-      "type": "ENERGY",
+      "type": "UNIVERSAL",
       "mount": "TURRET",
       "arc": 270,
       "angle": -90,
@@ -33,7 +34,7 @@
     {
       "id": "WS0002",
       "size": "LARGE",
-      "type": "ENERGY",
+      "type": "UNIVERSAL",
       "mount": "TURRET",
       "arc": 270,
       "angle": 90,
@@ -42,7 +43,7 @@
     {
       "id": "WS0009",
       "size": "MEDIUM",
-      "type": "ENERGY",
+      "type": "UNIVERSAL",
       "mount": "TURRET",
       "arc": 270,
       "angle": -90,
@@ -51,7 +52,7 @@
     {
       "id": "WS0010",
       "size": "MEDIUM",
-      "type": "ENERGY",
+      "type": "UNIVERSAL",
       "mount": "TURRET",
       "arc": 270,
       "angle": 90,
@@ -78,7 +79,7 @@
     {
       "id": "WS0019",
       "size": "MEDIUM",
-      "type": "HYBRID",
+      "type": "UNIVERSAL",
       "mount": "TURRET",
       "arc": 270,
       "angle": -0.5,
@@ -87,7 +88,7 @@
     {
       "id": "WS0020",
       "size": "MEDIUM",
-      "type": "HYBRID",
+      "type": "UNIVERSAL",
       "mount": "TURRET",
       "arc": 270,
       "angle": 0.5,
@@ -100,7 +101,7 @@
       "mount": "HARDPOINT",
       "arc": 90,
       "angle": 1,
-      "locations": [174, -16.5],
+      "locations": [174, -20],
       "renderOrderMod": 1
     },
     {
@@ -110,12 +111,12 @@
       "mount": "HARDPOINT",
       "arc": 30,
       "angle": -0.5,
-      "locations": [158, -0.5]
+      "locations": [131, -0.5]
     },
     {
       "id": "WS0026",
       "size": "LARGE",
-      "type": "ENERGY",
+      "type": "UNIVERSAL",
       "mount": "TURRET",
       "arc": 270,
       "angle": 180,
@@ -124,7 +125,7 @@
     {
       "id": "WS0027",
       "size": "LARGE",
-      "type": "ENERGY",
+      "type": "UNIVERSAL",
       "mount": "TURRET",
       "arc": 270,
       "angle": -180,
@@ -137,7 +138,7 @@
       "mount": "HARDPOINT",
       "arc": 90,
       "angle": -0.5,
-      "locations": [174, 15.5],
+      "locations": [174, 19],
       "renderOrderMod": 1
     },
     {
@@ -295,12 +296,30 @@
     },
     {
       "id": "WS0013",
-      "size": "MEDIUM",
+      "size": "LARGE",
       "type": "BUILT_IN",
       "mount": "HARDPOINT",
       "arc": 130,
       "angle": 0,
       "locations": [34, -0]
+    },
+    {
+      "id": "WS0032",
+      "size": "LARGE",
+      "type": "UNIVERSAL",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": 0,
+      "locations": [61.5, -31.5]
+    },
+    {
+      "id": "WS0033",
+      "size": "LARGE",
+      "type": "UNIVERSAL",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": -0,
+      "locations": [61.5, 31.5]
     }
   ],
   "engineSlots": [

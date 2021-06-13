@@ -1,0 +1,5 @@
+Version 1.1.1.
+
+- Renamed files and IDs to be proeprly named.
+- Wyvern Nest "Mine Strike" remvoed and replaced with "Plasma Jets".
+- Changed Nest description.

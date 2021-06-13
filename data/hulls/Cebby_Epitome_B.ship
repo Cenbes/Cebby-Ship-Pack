@@ -1,6 +1,6 @@
 {
-  "hullName": "Epitome",
-  "hullId": "Epitome_Cebby",
+  "hullName": "Epitome Missile",
+  "hullId": "Cebby_Epitome_B",
   "hullSize": "CAPITAL_SHIP",
   "spriteName": "graphics/ships/Epitome_Cebby.png",
   "style": "HIGH_TECH",
@@ -12,11 +12,8 @@
   "shieldRadius": 256,
   "viewOffset": 0,
   "builtInMods": [
-	"operations_center"
+    "operations_center"
   ],
-  "builtInWeapons": {
-    "WS0001": "tachyonlance"
-  },
   "weaponSlots": [
     {
       "id": "WS0001;",
@@ -48,7 +45,7 @@
     {
       "id": "WS0005",
       "size": "MEDIUM",
-      "type": "HYBRID",
+      "type": "UNIVERSAL",
       "mount": "TURRET",
       "arc": 270,
       "angle": 0,
@@ -57,7 +54,7 @@
     {
       "id": "WS0006",
       "size": "MEDIUM",
-      "type": "HYBRID",
+      "type": "UNIVERSAL",
       "mount": "TURRET",
       "arc": 270,
       "angle": -0,
@@ -289,15 +286,6 @@
       "locations": [-179.5, -0]
     },
     {
-      "id": "WS0001",
-      "size": "LARGE",
-      "type": "BUILT_IN",
-      "mount": "HARDPOINT",
-      "arc": 30,
-      "angle": 0,
-      "locations": [220.5, -0]
-    },
-    {
       "id": "WS0033",
       "size": "SMALL",
       "type": "HYBRID",
@@ -428,6 +416,24 @@
         85, 92,
         85, 120
       ]
+    },
+    {
+      "id": "WS0001",
+      "size": "LARGE",
+      "type": "MISSILE",
+      "mount": "TURRET",
+      "arc": 45,
+      "angle": 0,
+      "locations": [224.5, -16]
+    },
+    {
+      "id": "WS0002",
+      "size": "LARGE",
+      "type": "MISSILE",
+      "mount": "TURRET",
+      "arc": 45,
+      "angle": -0,
+      "locations": [224.5, 16]
     }
   ],
   "engineSlots": [

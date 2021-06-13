@@ -1,6 +1,6 @@
 {
   "variantId": "Paradusa_Default",
-  "hullId": "Paradusa_Cebby",
+  "hullId": "Cebby_Paradusa",
   "displayName": "Mobile Fort",
   "goalVariant": true,
   "fluxCapacitors": 10,
