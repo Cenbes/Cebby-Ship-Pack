@@ -1,3 +1,56 @@
+Version 1.1.3.
+
+- Update texture for Paradusa thank to Seer of Souls.
+- Wyvern nest front build-in weapons changed to Hybrid four hybrid slot and one universal.
+- Build cost of all ships drasticly increased.
+
+Paradusa
+- Armor rating changed from 1800 to 1200.
+- Hitpoints changed from 26000 to 22000
+
+Epitome
+- Shield upkeed changed from 0.3 to 0.4
+- Shield efficiency changed from 0.3 to 0.4
+- Armor rating changed from 1600 to 1200.
+- Hitpoints changed from 32000 to 30000
+
+Epitome B
+- Shield upkeed changed from 0.3 to 0.4
+- Shield efficiency changed from 0.3 to 0.4
+- Fighter bays changed from 8 to 6
+- Ordinance poins changed from 450 to 500
+- Armor rating changed from 1600 to 1000.
+- Hitpoints changed from 32000 to 28000
+
+Wyvern Nest
+I decided to go with idea of mobile base for fleets and point to fall back to.
+
+- Shield upkeed changed from 0.6 to 0.7
+- Shield efficiency changed from 0.6 to 0.8
+- Min crew changed from 1250 to 1500
+- Max crew changed from 4000 to 5000
+- Cargo changed from 1800 to 2500
+- Fuel changed from 2400 to 2500
+- Fighter bays changed from 8 to 6
+- Ordinance poins changed from 500 to 600.
+- Max turn rate changed from 15 to 10
+- Max turn acceleration changed from 10 to 5
+- Max acceleration changed from 15 to 10
+- Max deceleration changed from 15 to 10
+- Max speed changed from 30 to 25
+
+Wyvern Wing
+- Shield upkeed changed from 0.6 to 0.7
+- Shield efficiency changed from 0.6 to 0.8
+- Max turn rate changed from 15 to 10
+- Max acceleration changed from 25 to 30
+- Max deceleration changed from 10 to 15
+- Max speed changed from 35 to 40
+- Max turn rate changed from 20 to 30
+- Max turn acceleration changed from 10 to 20
+- Armor rating changed from 1800 to 1400.
+- Hitpoints changed from 28000 to 24000
+
 Version 1.1.1.
 
 - Renamed files and IDs to be proeprly named.
