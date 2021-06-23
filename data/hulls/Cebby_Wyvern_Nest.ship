@@ -12,17 +12,10 @@
   "shieldRadius": 256,
   "viewOffset": 0,
   "builtInMods": [
-	"advancedcore",
-	"operations_center",
-	"eccm"
+    "advancedcore",
+    "operations_center",
+    "eccm"
   ],
-  "builtInWeapons": {
-    "WS0001": "hammerrack",
-    "WS0002": "mjolnir",
-    "WS0032": "mjolnir",
-    "WS0037": "mjolnir",
-    "WS0038": "mjolnir"
-  },
   "weaponSlots": [
     {
       "id": "WS0001;",
@@ -303,9 +296,9 @@
     {
       "id": "WS0001",
       "size": "LARGE",
-      "type": "BUILT_IN",
+      "type": "UNIVERSAL",
       "mount": "HARDPOINT",
-      "arc": 30,
+      "arc": 65,
       "angle": 0,
       "locations": [220.5, -0]
     },
@@ -444,36 +437,36 @@
     {
       "id": "WS0002",
       "size": "LARGE",
-      "type": "BUILT_IN",
+      "type": "HYBRID",
       "mount": "HARDPOINT",
-      "arc": 30,
+      "arc": 58,
       "angle": 0,
       "locations": [208.5, -45]
     },
     {
       "id": "WS0032",
       "size": "LARGE",
-      "type": "BUILT_IN",
+      "type": "HYBRID",
       "mount": "HARDPOINT",
-      "arc": 30,
+      "arc": 58,
       "angle": -0,
       "locations": [208.5, 45]
     },
     {
       "id": "WS0037",
       "size": "LARGE",
-      "type": "BUILT_IN",
+      "type": "HYBRID",
       "mount": "HARDPOINT",
-      "arc": 30,
+      "arc": 53,
       "angle": 0,
       "locations": [199.5, -79]
     },
     {
       "id": "WS0038",
       "size": "LARGE",
-      "type": "BUILT_IN",
+      "type": "HYBRID",
       "mount": "HARDPOINT",
-      "arc": 30,
+      "arc": 53,
       "angle": -0,
       "locations": [199.5, 79]
     }
